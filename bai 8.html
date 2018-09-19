@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    arr = [2,3,5,6,7,4,55,66];
+    result = reverse(arr);
+    alert("Mảng sau đổi chỗ là: " + result);
+    function reverse(arr) {
+        n = Math.floor(arr.length/2)-1;
+        for (i=0; i<=n; i++) {
+            bak = arr[i];
+            arr[i] = arr[arr.length-1-i];
+            arr[arr.length-1-i] = bak;
+        }
+        return arr;
+    }
+
+</script>
+</body>
+</html>
