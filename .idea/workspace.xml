@@ -118,6 +118,8 @@
       <change beforePath="$PROJECT_DIR$/../hello/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/hello.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laptrinhhuongdoituong/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laptrinhhuongdoituong/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../luyentapmang/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentapmang/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reverse/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reverse/reverse.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse/reverse.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tape/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tape/.idea/vcs.xml" afterDir="false" />
@@ -139,7 +141,7 @@
     <session id="-1335003299">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="2" />
@@ -262,7 +264,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -285,7 +287,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="975" />
     <option name="y" value="125" />
     <option name="width" value="800" />
@@ -333,12 +335,12 @@
       <workItem from="1537317441733" duration="1743000" />
       <workItem from="1537336588402" duration="2545000" />
       <workItem from="1537339286245" duration="5000" />
-      <workItem from="1537339313600" duration="1861000" />
+      <workItem from="1537339313600" duration="3058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11778000" />
+    <option name="totallyTimeSpent" value="12975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
